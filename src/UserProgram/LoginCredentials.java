@@ -1,5 +1,5 @@
 package UserProgram;
-
+//CLASS NOT (YET) IN USE
 public class LoginCredentials {
 
     private String userName;
