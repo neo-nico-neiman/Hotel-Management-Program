@@ -2,6 +2,8 @@ package UserProgram;
 
 import java.util.ArrayList;
 
+//CLASS NOT IN USE (YET)
+
 public class UserList {
         private ArrayList<User> userList;
 
