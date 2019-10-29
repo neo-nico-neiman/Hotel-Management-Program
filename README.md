@@ -39,9 +39,12 @@ A booking request is either granted in full or is completely rejected by the sys
 - Keep track of Guest's booking history to create a reward program.
 - And more...
 
+Next steps to implement:
+- Database.
+- Framework.
+- Web Development.
+- User and Guest Web Interface.
 
-
-Assessment will be based on the design of your program in addition to correctness. You should submit at least a UML class diagram used for the design of your program, i.e. not generated from code afterwards.
 
 
 
