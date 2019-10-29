@@ -1,5 +1,5 @@
 package UserProgram;
-
+//CLASS NOT IN USE (YET)
 public class User {
 
     private static int userCounter;
